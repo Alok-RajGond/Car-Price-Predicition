@@ -55,4 +55,4 @@ Please make sure to download the "CarPrice.csv" dataset and update the file path
 
 Note: The code provided is a summary of the steps involved in the project. It may require additional modifications
 
- and fine-tuning based on your specific requirements and dataset.
+ and fine-tuning based on your specific requirement and dataset.
