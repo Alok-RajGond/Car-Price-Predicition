@@ -49,7 +49,7 @@ The trained model is then used to make price predictions for new car instances. 
 
 ## Conclusion
 
-This car price prediction project demonstrates the process of building a regression model to predict car prices based on various features. It highlights the importance of data preprocessing, feature engineering, model selection, and evaluation. The trained model can be used to estimate the prices of cars based on their characteristics.
+This car price prediction project demonstrates the process of building a Decision Tree model to predict car prices based on various features. It highlights the importance of data preprocessing, feature engineering, model selection, and evaluation. The trained model can be used to estimate the prices of cars based on their characteristics.
 
 Please make sure to download the "CarPrice.csv" dataset and update the file path in the code before running the project.
 
