@@ -1,5 +1,3 @@
-# OIBSIP_TASK_NO.-3
-
 # Car Price Prediction
 
 This project aims to predict the prices of cars based on various features such as fuel type, car body, engine, transmission, etc.
